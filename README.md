@@ -6,7 +6,7 @@ Componentes
 
     ./data -> Directorio con el enunciado y la base de datos de la práctica
 
-    ./src -> Directorio con el proyecto de Visual Basic 2019
+    ./src -> Directorio con el proyecto de Visual Basic 2019, dividido por capas: presentación, dominio y persistencia.
 
 > [!NOTE]
 > Para poder ejecutar el proyecto, es necesario tener instalado **Visual Studio 2019** para la conexión con la base de datos.
